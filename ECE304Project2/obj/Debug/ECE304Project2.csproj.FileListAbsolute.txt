@@ -1,0 +1,6 @@
+C:\Users\Jessi\Desktop\old hw\ece256\ECE304Project2\ECE304Project2\bin\Debug\ECE304Project2.exe.config
+C:\Users\Jessi\Desktop\old hw\ece256\ECE304Project2\ECE304Project2\bin\Debug\ECE304Project2.exe
+C:\Users\Jessi\Desktop\old hw\ece256\ECE304Project2\ECE304Project2\bin\Debug\ECE304Project2.pdb
+C:\Users\Jessi\Desktop\old hw\ece256\ECE304Project2\ECE304Project2\obj\Debug\ECE304Project2.csprojResolveAssemblyReference.cache
+C:\Users\Jessi\Desktop\old hw\ece256\ECE304Project2\ECE304Project2\obj\Debug\ECE304Project2.exe
+C:\Users\Jessi\Desktop\old hw\ece256\ECE304Project2\ECE304Project2\obj\Debug\ECE304Project2.pdb
